@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Orion-site/static/css/main.c55dd121.chunk.css",
+    "main.js": "/Orion-site/static/js/main.3a8ca252.chunk.js",
+    "main.js.map": "/Orion-site/static/js/main.3a8ca252.chunk.js.map",
+    "runtime-main.js": "/Orion-site/static/js/runtime-main.f48ae20d.js",
+    "runtime-main.js.map": "/Orion-site/static/js/runtime-main.f48ae20d.js.map",
+    "static/js/2.967d624b.chunk.js": "/Orion-site/static/js/2.967d624b.chunk.js",
+    "static/js/2.967d624b.chunk.js.map": "/Orion-site/static/js/2.967d624b.chunk.js.map",
+    "static/js/3.74c7fc11.chunk.js": "/Orion-site/static/js/3.74c7fc11.chunk.js",
+    "static/js/3.74c7fc11.chunk.js.map": "/Orion-site/static/js/3.74c7fc11.chunk.js.map",
+    "index.html": "/Orion-site/index.html",
+    "static/css/main.c55dd121.chunk.css.map": "/Orion-site/static/css/main.c55dd121.chunk.css.map",
+    "static/js/2.967d624b.chunk.js.LICENSE.txt": "/Orion-site/static/js/2.967d624b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f48ae20d.js",
+    "static/js/2.967d624b.chunk.js",
+    "static/css/main.c55dd121.chunk.css",
+    "static/js/main.3a8ca252.chunk.js"
+  ]
+}
